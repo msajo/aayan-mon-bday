@@ -1,0 +1,14 @@
+<button class="btn btn-lg" onclick="playSound()">Dear Ayaan - play this <br>
+		<img src="play button.png" width="60px" height="60px"></button>
+
+
+
+        button{
+    font-size: 300px;
+    background-color: rgb(255, 55, 188);
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 350px;
+    height: 200px;
+     
+}

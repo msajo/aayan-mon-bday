@@ -12,6 +12,7 @@
  border-style: ridge;
  border-color: darkviolet;  
 }
+
 button{
     font-size: 30px;
     background-color: rgb(255, 55, 188);
@@ -21,3 +22,4 @@ button{
     height: 200px;
      
 }
+
