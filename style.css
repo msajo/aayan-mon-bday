@@ -2,7 +2,8 @@
 {
     background-image:url(happybday.gif);
     background-position:center;
-    background-size:cover;
+    background-size:400px x 300px;
+
 }
 #myCanvas
 {
@@ -11,4 +12,10 @@
  border-style: ridge;
  border-color: darkviolet;  
 }
-
+button{
+    font-size: 15px;
+    background-color: rgb(255, 55, 188);
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     
+}
